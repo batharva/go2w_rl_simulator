@@ -1,0 +1,9 @@
+__pycache__/
+.cache/
+logs/
+checkpoints/*.zip
+checkpoints/*.json
+models/*.zip
+models/*.json
+results/*
+*.pyc
